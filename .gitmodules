@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dineq"]
+	path = dineq
+	url = https://github.com/reneschulenberg/dineq
+	shallow = true
+	registered = true
