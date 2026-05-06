@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "dineq"]
 	path = dineq
-	url = https://github.com/reneschulenberg/dineq
+	url = https://github.com/cran/dineq
